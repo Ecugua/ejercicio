@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "persona" ALTER COLUMN "tiempo" SET DEFAULT CURRENT_TIMESTAMP;
